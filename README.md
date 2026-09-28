@@ -1,8 +1,6 @@
 <div align="center">
 
 
-<!-- ANIMATED WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=EVILBOX%20C2&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=Advanced%20Adversary%20Simulation%20%26%20Offensive%20Security%20Platform&descAlignY=62&descAlign=50&descSize=15&animation=fadeIn&stroke=e53935&strokeWidth=2" width="100%"/>
 
 <!-- PERMANENT TYPING LINE 1 -->
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=3000&pause=999999&repeat=false&color=E53935&center=true&vCenter=true&width=750&height=45&lines=EvilBox" alt="system online" />
